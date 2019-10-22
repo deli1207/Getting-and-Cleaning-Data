@@ -1,6 +1,8 @@
 # Getting-and-Cleaning-Data
+
 Peer-graded Assignment: Getting and Cleaning Data Course Project
-This repository is the submission for Getting and Cleaning Data course project. It has the instructions on how to run analysis on Human Activity recognition dataset.
+
+This repository is the submission for Getting and Cleaning Data course project with sets of instructions on how to run analysis on Human Activity recognition dataset.
 
 Dataset
 Human Activity Recognition Using Smartphones
